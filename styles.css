@@ -1,0 +1,10 @@
+form {
+    width: 60vw;
+    max-width: 600px;
+}
+label {
+    display: block;
+}
+.inline {
+    width: unset;
+}
